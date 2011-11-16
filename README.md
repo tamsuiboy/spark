@@ -1,4 +1,4 @@
-# spark
+# spark (tamsuiboy test)
 ### sparklines for your shell
 
 See? Here's a graph of your productivity gains after using spark: ▁▂▃▅▇
